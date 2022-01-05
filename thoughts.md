@@ -3,3 +3,5 @@ Know when it is appropriate to ask for help and when you should keep working thr
 
 I want to try the Driver/Navigator exercise more often. It has been helpful in helping me commit things to memory so far.
 I am also committed to maintaining my calendar system. Specifically, breaking larger tasks into smaller blocks.
+
+Shoutout to Amy Holt for helping me with my computer setup. I had trouble with Homebrew right off the bat, and she was a wonderful resource for getting me back on track.
